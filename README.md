@@ -1,4 +1,5 @@
-# 28-Interview-Questions by Arden Dertat 
+# 28-Interview-Questions 
+by Arden Dertat 
 http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 
 Below are solutions in JavaScript.
